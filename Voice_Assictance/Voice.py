@@ -7,6 +7,7 @@ import subprocess
 import os
 import pywhatkit
 
+
 # Initialize recognizer and text-to-speech
 recognizer = sr.Recognizer()
 engine = pyttsx3.init()
